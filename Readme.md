@@ -1,0 +1,1 @@
+This is a sample js app to test dependency confusion.
