@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@it-eng/is-dinosaur": "2.9.9"
+    "@it-eng/is-dinosaur": "2.1.1"
   }
 }
